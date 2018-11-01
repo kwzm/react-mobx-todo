@@ -22,16 +22,8 @@ decorate(Todo, {
   toggle: action,
 })
 
-let initTodos = []
-
-const total = 10000
-
-for (let i = 1; i <= total; i++) {
-  initTodos.push(new Todo(`${i}`))
-}
-
 class Store {
-  todos = initTodos;
+  todos = []
 
   filter = 'All'
 
