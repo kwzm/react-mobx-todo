@@ -5,15 +5,14 @@ A simple todo application use react and mobx.
 ## Stack
 - creat-react-app
 - react
-- redux
 - mobx
 - css modules
 - HMR
 ## Quick Start
 ### develop
 ```shell
-$ git clone https://github.com/kwzm/redux-todos.git
-$ cd redux-todos
+$ git clone https://github.com/kwzm/react-mobx-todos.git
+$ cd react-mobx-todos
 $ npm install
 $ npm start
 ```
