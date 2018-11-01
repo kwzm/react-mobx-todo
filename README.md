@@ -1,4 +1,4 @@
-# React-mobx-todos
+# react-mobx-todos
 A simple todo application use react and mobx.
 ## Preview
 ![preview](https://github.com/kwzm/redux-todos/blob/master/public/preview.PNG)
