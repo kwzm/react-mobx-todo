@@ -1,0 +1,19 @@
+.todoFooter {
+  margin-top: 20px;
+  color: #777;
+}
+
+.actions {
+  display: inline-block;
+}
+
+.actions span {
+  padding: 4px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.actions span.active {
+  border: 1px solid gray;
+  border-radius: 3px;
+}
